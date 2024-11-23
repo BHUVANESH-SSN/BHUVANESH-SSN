@@ -19,8 +19,10 @@ I am a 2nd-year student pursuing my degree in Computer Science. I love solving p
 
 
 
-All my projects are available at [GitHub](https://github.com/BHUVANESH-SSN).  
+All my projects are available at [GitHub](https://github.com/BHUVANESH-SSN).
+
 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/bhuvanesh-cse/).  
+
 Feel free to reach out to me via email: **bhuvaneshcsessn@gmail.com**.
 
 ---
