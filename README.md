@@ -3,7 +3,7 @@
 
 # Hi there 👋, I'm Bhuvanesh S
 
-### 🚀 Passionate Computer Science Undergraduate  
+### 🚀 A Passionate Computer Science Undergraduate  
 I am a 2nd-year student pursuing my degree in Computer Science. I love solving problems and building projects that create real-world impact.
 
 
