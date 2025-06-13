@@ -1,11 +1,7 @@
-
-
-
 # Hi there 👋, I'm Bhuvanesh S
 
 ### 🚀 A Passionate Computer Science Undergraduate  
-I am a 2nd-year student pursuing my degree in Computer Science. I love solving problems and building projects that create real-world impact.
-
+I am a 3rd-year student pursuing my degree in Computer Science. I love solving problems and building projects that create real-world impact.
 
 ---
 
@@ -14,15 +10,11 @@ I am a 2nd-year student pursuing my degree in Computer Science. I love solving p
   <a href="https://www.linkedin.com/in/bhuvanesh-cse/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/></a>
   <a href="https://www.instagram.com/stoic.bhuvi?igsh=MWx0bzNsMmE5ZWRhcQ=="><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/></a>
   <a href="https://github.com/BHUVANESH-SSN"><img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub" width="40" height="40"/></a>
-  <a href="https://leetcode.com/u/Bhuvi_27/"><img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-filled-tal-revivo.png" alt="LeetCode" width="40" height="40"/></a>
+  <a href="https://leetcode.com/u/Bhuvanes_27/"><img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-filled-tal-revivo.png" alt="LeetCode" width="40" height="40"/></a>
 </p>
 
-
-
-All my projects are available at [GitHub](https://github.com/BHUVANESH-SSN).
-
+All my projects are available at [GitHub](https://github.com/BHUVANESH-SSN).  
 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/bhuvanesh-cse/).  
-
 Feel free to reach out to me via email: **bhuvaneshcsessn@gmail.com**.
 
 ---
@@ -30,11 +22,13 @@ Feel free to reach out to me via email: **bhuvaneshcsessn@gmail.com**.
 ### 🌱 Currently Learning:
 - **Web Development**
 - **Android Development**
-- Exploring **Docker** and **Kubernetes**.
+- **Machine Learning**
+- Solving problems on **GeeksforGeeks**, **Codeforces**, and **LeetCode**
 
 ---
 
 ### 🛠 Skills & Tools:
+
 #### **Programming Languages**:
 <p>
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40" height="40"/>
@@ -59,11 +53,15 @@ Feel free to reach out to me via email: **bhuvaneshcsessn@gmail.com**.
 <p>
   <img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png" alt="Ubuntu" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/48/000000/linux.png" alt="Kali Linux" width="40" height="40"/>
 </p>
 
 #### **Key Areas**:
 - Data Structures  
-- Object-Oriented Programming (OOP)
+- Object-Oriented Programming (OOP)  
+- Operating Systems  
+- Database Management Systems
 
 ---
 
