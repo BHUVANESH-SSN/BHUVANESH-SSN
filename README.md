@@ -54,7 +54,8 @@ Feel free to reach out to me via email: **bhuvaneshcsessn@gmail.com**.
   <img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png" alt="Ubuntu" width="40" height="40"/>
-  <img src="https://img.icons8.com/fluency/48/000000/linux.png" alt="Kali Linux" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Linux" width="40" height="40"/>
+
 </p>
 
 #### **Key Areas**:
