@@ -10,7 +10,7 @@ I am a 3rd-year student pursuing my degree in Computer Science. I love solving p
   <a href="https://www.linkedin.com/in/bhuvanesh-cse/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/></a>
   <a href="https://www.instagram.com/stoic.bhuvi?igsh=MWx0bzNsMmE5ZWRhcQ=="><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/></a>
   <a href="https://github.com/BHUVANESH-SSN"><img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub" width="40" height="40"/></a>
-  <a href="https://leetcode.com/u/Bhuvanes_27/"><img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-filled-tal-revivo.png" alt="LeetCode" width="40" height="40"/></a>
+  <a href="https://leetcode.com/u/Bhuvanesh_27/"><img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-filled-tal-revivo.png" alt="LeetCode" width="40" height="40"/></a>
 </p>
 
 All my projects are available at [GitHub](https://github.com/BHUVANESH-SSN).  
