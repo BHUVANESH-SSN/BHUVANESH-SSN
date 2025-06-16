@@ -78,7 +78,7 @@ Feel free to reach out to me via email: **bhuvaneshcsessn@gmail.com**.
 
 ---
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=your-username.your-repo)
+![VISITORS COUNT](https://komarev.com/ghpvc/?username=BHUVANESH-SSN&style=for-the-badge)
 
 
 ---
