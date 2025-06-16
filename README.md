@@ -78,7 +78,8 @@ Feel free to reach out to me via email: **bhuvaneshcsessn@gmail.com**.
 
 ---
 
-![VISITORS COUNT](https://komarev.com/ghpvc/?username=BHUVANESH-SSN&style=for-the-badge)
+![VISITORS COUNT](https://komarev.com/ghpvc/?username=BHUVANESH-SSN&color=gold)
+&style=for-the-badge)
 
 
 ---
