@@ -76,13 +76,8 @@ Feel free to reach out to me via email: **bhuvaneshcsessn@gmail.com**.
 ### 📊 GitHub Stats:
 ![Bhuvanesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=BHUVANESH-SSN&show_icons=true&theme=radical)
 
----
 
-![Visitors Count](https://visitor-badge.laobi.icu/badge?page_id=BHUVANESH-SSN.BHUVANESH-SSN)
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=BHUVANESH-SSN.BHUVANESH-SSN" alt="Visitor Count" />
-</p>
 
 ---
 
