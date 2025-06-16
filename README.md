@@ -69,6 +69,7 @@ Feel free to reach out to me via email: **bhuvaneshcsessn@gmail.com**.
 ### 👨‍💻 Projects:
 - **Pac-Man Game**: Implemented using C language with graphics and sound effects.  
 - **Bus Ticket Reservation System**: Built using Java with core logic and JDBC integration.
+- **Responsive Web Design Using HTML+CSS** 
 
 ---
 
@@ -77,8 +78,8 @@ Feel free to reach out to me via email: **bhuvaneshcsessn@gmail.com**.
 
 ---
 
-### 🏆 Achievements:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=BHUVANESH-SSN&theme=gruvbox)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=your-username.your-repo)
+
 
 ---
 
