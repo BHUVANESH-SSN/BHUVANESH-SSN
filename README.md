@@ -1,3 +1,69 @@
+# 💼 Bhuvanesh S – Resume
+
+📧 Email: bhuvanesh2310766@ssn.edu.in  
+📞 Phone: +91 8438789100  
+🔗 [LinkedIn](https://www.linkedin.com/in/bhuvanesh-cse)  
+💻 [GitHub](https://github.com/BHUVANESH-SSN)  
+
+---
+
+## 👨‍🎓 Education
+
+**B.E. Computer Science and Engineering**  
+Sri Sivasubramaniya Nadar College of Engineering  
+2023 – 2027  
+**CGPA:** 7.7
+
+---
+
+## 💡 Professional Summary
+
+Enthusiastic and driven Computer Science student with a passion for front-end development, ethical hacking, and solving data structure & algorithm problems. Seeking internship opportunities to apply and expand my skillset in real-world projects.
+
+---
+
+## 🧠 Skills
+
+- **Languages:** C++, Python, Java  
+- **Web:** HTML, CSS, JavaScript  
+- **Frameworks:** Bootstrap, React, Node.js, Express.js  
+- **Databases:** Oracle SQL, MySQL, MongoDB  
+- **Tools & IDEs:** GitHub, VS Code, NetBeans
+
+---
+
+## 💻 Projects
+
+- 🔹 [**Pacman Game (C)**](https://github.com/BHUVANESH-SSN/PACMAN-C)  
+  Console-based Pacman game using arrays and basic logic.
+
+- 🔹 [**Bus Ticket Reservation System (Java, JDBC)**](https://github.com/BHUVANESH-SSN/BUS-TICKET-RESERVATION-SYSTEM-JAVA)  
+  Desktop app for ticket management using Java and MySQL.
+
+- 🔹 [**Responsive Web Design Projects (HTML, CSS)**](https://github.com/BHUVANESH-SSN/Responsive-Web-Design-FreeCodeCamp)  
+  Created 5 responsive pages for FreeCodeCamp certification.
+
+---
+
+## 📜 Certifications
+
+- ✅ [Algorithms by Stanford University – Coursera](https://coursera.org/share/8970bc852cd968fdc54ba4e2a385705d)  
+- ✅ [Introduction to Frontend Development – Coursera](https://coursera.org/share/e8a49c4bade8ae649722c40dc0178f43)  
+- ✅ [Data Structures using C/C++ – Udemy](https://www.udemy.com/certificate/UC-ebc580ed-d632-4832-8c5a-508c5ce75253/)  
+- ✅ [Introduction to DevOps – Coursera](https://coursera.org/share/db9836fa2c8fca5ac013feedb580d105)  
+- ✅ [Postman API Fundamentals – Badgr](https://badgr.com/public/assertions/2fv5vfLWTe6odsycqRYqAA)  
+- ✅ [SQL Essential Training – LinkedIn Learning](https://www.linkedin.com/learning/certificates/365a5ba231904bc5ff01b58dd1846dfce7cd51daae854c63e0384d8ee9b193af?trk=share_certificate)  
+- ✅ [Linux Foundation Certification – Credly](https://www.credly.com/badges/de93b624-981e-4beb-85fc-6ba249d7a107)
+
+---
+
+## 🎯 Career Objective
+
+Looking for internship opportunities in:
+- Frontend Development
+- Ethical Hacking
+- Software roles with focus on Data Structures & Algorithms
+
 # Hi there 👋, I'm Bhuvanesh S
 
 ### 🚀 A Passionate Computer Science Undergraduate  
