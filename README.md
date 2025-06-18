@@ -64,12 +64,7 @@ Looking for internship opportunities in:
 - Ethical Hacking
 - Software roles with focus on Data Structures & Algorithms
 
-# Hi there 👋, I'm Bhuvanesh S
 
-### 🚀 A Passionate Computer Science Undergraduate  
-I am a 3rd-year student pursuing my degree in Computer Science. I love solving problems and building projects that create real-world impact.
-
----
 
 ### 📫 Connect with Me:
 <p>
