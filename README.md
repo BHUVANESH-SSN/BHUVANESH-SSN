@@ -1,7 +1,6 @@
 # 💼 Bhuvanesh S – Resume
 
 📧 Email: bhuvanesh2310766@ssn.edu.in  
-📞 Phone: +91 8438789100  
 🔗 [LinkedIn](https://www.linkedin.com/in/bhuvanesh-cse)  
 💻 [GitHub](https://github.com/BHUVANESH-SSN)  
 
