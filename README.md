@@ -142,7 +142,7 @@ Feel free to reach out to me via email: **bhuvaneshcsessn@gmail.com**.
 ---
 
 ### 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BHUVANESH-SSN&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 
 <div align="center">
