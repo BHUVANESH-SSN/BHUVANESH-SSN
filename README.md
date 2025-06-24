@@ -141,7 +141,8 @@ Feel free to reach out to me via email: **bhuvaneshcsessn@gmail.com**.
 
 ---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BHUVANESH-SSN&theme=radical)
+### 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=BHUVANESH-SSN&theme=radical)
 
 
 <div align="center">
