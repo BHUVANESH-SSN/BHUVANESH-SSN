@@ -15,7 +15,7 @@
 **B.E. Computer Science and Engineering**  
 Sri Sivasubramaniya Nadar College of Engineering  
 2023 – 2027  
-**CGPA:** 7.7
+
 
 ---
 
