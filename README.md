@@ -54,7 +54,7 @@ Enthusiastic and driven Computer Science student with a passion for front-end de
   <a href="https://www.instagram.com/stoic.bhuvi?igsh=MWx0bzNsMmE5ZWRhcQ==" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stoic.bhuvi" height="30" width="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/Bhuvanesh_27/" target="blank">
+  <a href="https://leetcode.com/u/Bhuvi_27/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Bhuvi_27" height="50" width="50" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://auth.geeksforgeeks.org/user/bhuvaneshcsessn" target="blank">
