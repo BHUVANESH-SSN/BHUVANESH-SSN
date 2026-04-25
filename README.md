@@ -128,7 +128,7 @@ AI-powered NL2SQL system enabling non-technical users to query databases using p
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BHUVANESH-SSN&theme=2077" height="180em" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BHUVANESH-SSN&theme=2077" height="180em" />
 </p>
-<p>
+<p align="center">
 <img width="49.5%" src="https://streak-stats.demolab.com?user=BHUVANESH-SSN&theme=dark&hide_border=true" />
 </p>
 <div align="center">
