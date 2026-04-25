@@ -25,15 +25,15 @@
 
 ---
 
-## 💡 Professional Summary
+##  Professional Summary
 
-CSE undergrad (2027) specializing in **agentic AI systems** and **full-stack engineering**. Built production-grade multi-agent pipelines using CrewAI and LangGraph — reducing incident MTTR from hours to sub-60 seconds. **TechnoVerse 2026 Winner** (260+ teams) · **Infosys Springboard AI/ML Intern**. Passionate about building systems that solve real problems at scale.
+Computer Science student at SSN College of Engineering with a strong interest in modern JavaScript frameworks and AI-powered agent-based systems. Passionate about building scalable web applications and intelligent solutions using contemporary technologies and open-source tools. Seeking internship opportunities to develop impactful real-world systems. **TechnoVerse 2026 Winner** (260+ teams) · **Infosys Springboard AI/ML Intern**. Passionate about building systems that solve real problems at scale.
 
 ---
 
 ## 💼 Experience
 
-### 🏢 Infosys Springboard Virtual Intern — AI & ML Project *(Feb 2026 – Mar 2026)*
+###  Infosys Springboard Virtual Intern — AI & ML Project *(Feb 2026 – Mar 2026)*
 Built an end-to-end AI/ML pipeline for audio transcription and summarization.
 - Used **OpenAI Whisper** for speech-to-text and **Facebook BART** for abstractive summarization
 - Designed complete workflow: data preprocessing → model integration → automated output generation
@@ -53,13 +53,13 @@ Production-grade multi-agent AI system with dynamic routing across 5 specialized
 - **45% improvement** in response accuracy via hybrid retrieval (FAISS + BM25)
 - **60% latency reduction** and **35% API cost savings** via Redis semantic caching
 
-### 🏗️ [Enterprise Multi-Tenant Task Management System](https://github.com/BHUVANESH-SSN/multi-tenant-task-management-system)
+###  [Enterprise Multi-Tenant Task Management System](https://github.com/BHUVANESH-SSN/multi-tenant-task-management-system)
 Scalable multi-tenant architecture using **Node.js, Express, and Prisma ORM**.
 - 2-tier RBAC system (Admin, Assignee) with fine-grained API-level access control
 - OAuth 2.0 (Google, GitHub) + JWT session management — reduced onboarding time by **40%**
 - Containerized deployment: **Docker + AWS ECS (Fargate)** with RDS — **99.9% uptime**
 
-### 🔍 [AskLytics: Natural Language to SQL](https://github.com/BHUVANESH-SSN/ask-lytics)
+###  [AskLytics: Natural Language to SQL](https://github.com/BHUVANESH-SSN/ask-lytics)
 AI-powered NL2SQL system enabling non-technical users to query databases using plain English.
 
 ---
@@ -67,7 +67,7 @@ AI-powered NL2SQL system enabling non-technical users to query databases using p
 ## 🏆 Achievements
 
 - 🥇 **TechnoVerse Hackathon 2026 Winner** — 1st place among 260+ teams (ML-based Placement Prediction & Resume Tailoring System)
-- 🏅 Participated in **Smart India Hackathon (SIH)**, **Zenith Hackathon 2026**, **SNU Hacks 2026**
+-  Participated in **Smart India Hackathon (SIH)**, **Zenith Hackathon 2026**, **SNU Hacks 2026**
 
 ---
 
