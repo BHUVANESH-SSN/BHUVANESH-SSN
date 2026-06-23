@@ -40,7 +40,7 @@ Built an end-to-end AI/ML pipeline for audio transcription and summarization.
 
 ##  Projects
 
-### 🤖 [Intelligent Incident Response Crew](https://github.com/BHUVANESH-SSN/intelligent-incident-response-crew)
+###  [Intelligent Incident Response Crew](https://github.com/BHUVANESH-SSN/intelligent-incident-response-crew)
 Multi-agent AI system using **CrewAI** that automates incident response across 5 specialized agents.
 - Reduced **MTTR from hours → 30–60 seconds**
 - Integrates **Elasticsearch, Prometheus, and Slack** for data-driven incident resolution
