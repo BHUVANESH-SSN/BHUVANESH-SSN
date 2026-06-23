@@ -16,9 +16,9 @@
   </a>
 </p>
 
-📧 **Email:** bhuvanesh2310766@ssn.edu.in &nbsp;|&nbsp; 📞 +91 8438789100
+ **Email:** bhuvanesh2310766@ssn.edu.in &nbsp;|&nbsp; 📞 +91 8438789100
 
-👨‍🎓 **Education**
+ **Education**
 **B.E. Computer Science and Engineering** — Sri Sivasubramaniya Nadar College of Engineering | 2023–2027 | CGPA: 7.8
 
 ---
@@ -38,7 +38,7 @@ Built an end-to-end AI/ML pipeline for audio transcription and summarization.
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 ### 🤖 [Intelligent Incident Response Crew](https://github.com/BHUVANESH-SSN/intelligent-incident-response-crew)
 Multi-agent AI system using **CrewAI** that automates incident response across 5 specialized agents.
@@ -46,7 +46,7 @@ Multi-agent AI system using **CrewAI** that automates incident response across 5
 - Integrates **Elasticsearch, Prometheus, and Slack** for data-driven incident resolution
 - Automates alert diagnosis, root cause analysis, and triage across logs, metrics, and deployments
 
-### 🧠 [Enterprise Multi-Agent RAG Chatbot](https://github.com/BHUVANESH-SSN/NexusAI-Agentic-RAG)
+###  [Enterprise Multi-Agent RAG Chatbot](https://github.com/BHUVANESH-SSN/NexusAI-Agentic-RAG)
 Production-grade multi-agent AI system with dynamic routing across 5 specialized agents.
 - **45% improvement** in response accuracy via hybrid retrieval (FAISS + BM25)
 - **60% latency reduction** and **35% API cost savings** via Redis semantic caching
@@ -62,20 +62,20 @@ AI-powered NL2SQL system enabling non-technical users to query databases using p
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 
-- 🥇 **TechnoVerse Hackathon 2026 Winner** — 1st place among 260+ teams (ML-based Placement Prediction & Resume Tailoring System)
+-  **TechnoVerse Hackathon 2026 Winner** — 1st place among 260+ teams (ML-based Placement Prediction & Resume Tailoring System)
 -  Participated in **Smart India Hackathon (SIH)**, **Zenith Hackathon 2026**, **SNU Hacks 2026**
 
 ---
 
 ## 📜 Certifications
 
-- ✅ [Machine Learning – Stanford University (Andrew Ng) – Coursera](https://www.coursera.org/account/accomplishments/verify/UB012SNXDEBS)
-- ✅ [GitHub Foundation Certification – Credly](https://www.credly.com/badges/9dcfc63f-4456-41bc-8994-824ea8904ee2/public_url)
-- ✅ [Meta Front-End Developer – Credly](https://www.credly.com/badges/ef211d77-7346-48cd-b1ef-4e17479def22/public_url)
-- ✅ [SQL Essential Training – LinkedIn Learning](https://www.linkedin.com/learning/certificates/365a5ba231904bc5ff01b58dd1846dfce7cd51daae854c63e0384d8ee9b193af)
-- ✅ AWS Cloud Practitioner Essentials – AWS
+-  [Machine Learning – Stanford University (Andrew Ng) – Coursera](https://www.coursera.org/account/accomplishments/verify/UB012SNXDEBS)
+-  [GitHub Foundation Certification – Credly](https://www.credly.com/badges/9dcfc63f-4456-41bc-8994-824ea8904ee2/public_url)
+-  [Meta Front-End Developer – Credly](https://www.credly.com/badges/ef211d77-7346-48cd-b1ef-4e17479def22/public_url)
+-  [SQL Essential Training – LinkedIn Learning](https://www.linkedin.com/learning/certificates/365a5ba231904bc5ff01b58dd1846dfce7cd51daae854c63e0384d8ee9b193af)
+-  AWS Cloud Practitioner Essentials – AWS
 
 ---
 
@@ -88,7 +88,7 @@ AI-powered NL2SQL system enabling non-technical users to query databases using p
 
 ---
 
-## 📚 Relevant Coursework
+##  Relevant Coursework
 
 `Data Structures & Algorithms` `Operating Systems` `DBMS` `Computer Networks` `OOP` `Web Development` `Machine Learning`
 
